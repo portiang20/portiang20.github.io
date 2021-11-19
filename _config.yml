@@ -54,7 +54,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/s
-port: 5001
+port: 5002
 =======
 theme: jekyll-theme-minimal
 >>>>>>> d46426cc2620a9a214dd56890b50360716a7c84c
